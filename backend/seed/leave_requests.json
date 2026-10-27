@@ -1,0 +1,101 @@
+[
+  {
+    "id": "LR-001",
+    "employee_id": "EMP001",
+    "leave_type": "Annual",
+    "start_date": "2026-03-02",
+    "end_date": "2026-03-06",
+    "reason": "Family trip to Kerala, booked well in advance.",
+    "number_of_days": 5,
+    "status": "Approved",
+    "reviewer_comment": "Approved. Enjoy the trip."
+  },
+  {
+    "id": "LR-002",
+    "employee_id": "EMP002",
+    "leave_type": "Sick",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-15",
+    "reason": "Viral fever; doctor advised two days of rest.",
+    "number_of_days": 2,
+    "status": "Approved",
+    "reviewer_comment": "Approved. Get well soon."
+  },
+  {
+    "id": "LR-003",
+    "employee_id": "EMP003",
+    "leave_type": "Casual",
+    "start_date": "2026-05-20",
+    "end_date": "2026-05-20",
+    "reason": "Personal errand at the bank for loan paperwork.",
+    "number_of_days": 1,
+    "status": "Rejected",
+    "reviewer_comment": "Release sign-off is scheduled that day. Please pick another date."
+  },
+  {
+    "id": "LR-004",
+    "employee_id": "EMP001",
+    "leave_type": "Casual",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-07",
+    "reason": "Attending a cousin's wedding in another city.",
+    "number_of_days": 2,
+    "status": "Approved",
+    "reviewer_comment": "Approved."
+  },
+  {
+    "id": "LR-005",
+    "employee_id": "EMP004",
+    "leave_type": "Annual",
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-20",
+    "reason": "Extended break with family after the project close-out.",
+    "number_of_days": 5,
+    "status": "Pending",
+    "reviewer_comment": null
+  },
+  {
+    "id": "LR-006",
+    "employee_id": "EMP005",
+    "leave_type": "Sick",
+    "start_date": "2026-10-29",
+    "end_date": "2026-10-30",
+    "reason": "Follow-up physiotherapy sessions after a minor injury.",
+    "number_of_days": 2,
+    "status": "Pending",
+    "reviewer_comment": null
+  },
+  {
+    "id": "LR-007",
+    "employee_id": "EMP002",
+    "leave_type": "Annual",
+    "start_date": "2026-12-21",
+    "end_date": "2026-12-31",
+    "reason": "Year-end break to rest and spend time with family.",
+    "number_of_days": 11,
+    "status": "Pending",
+    "reviewer_comment": null
+  },
+  {
+    "id": "LR-008",
+    "employee_id": "EMP006",
+    "leave_type": "Casual",
+    "start_date": "2026-09-10",
+    "end_date": "2026-09-11",
+    "reason": "Moving apartments at short notice this weekend.",
+    "number_of_days": 2,
+    "status": "Rejected",
+    "reviewer_comment": "Please submit at least one week ahead so the team can plan cover."
+  },
+  {
+    "id": "LR-009",
+    "employee_id": "EMP003",
+    "leave_type": "Annual",
+    "start_date": "2027-01-11",
+    "end_date": "2027-01-15",
+    "reason": "Planned winter break with friends in Himachal.",
+    "number_of_days": 5,
+    "status": "Approved",
+    "reviewer_comment": "Approved. Have a great trip."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "EMP001",
+    "name": "Asha Menon",
+    "email": "asha.menon@example.com",
+    "leave_balance": 13
+  },
+  {
+    "id": "EMP002",
+    "name": "Rahul Verma",
+    "email": "rahul.verma@example.com",
+    "leave_balance": 18
+  },
+  {
+    "id": "EMP003",
+    "name": "Daniel Brooks",
+    "email": "daniel.brooks@example.com",
+    "leave_balance": 15
+  },
+  {
+    "id": "EMP004",
+    "name": "Mei Lin",
+    "email": "mei.lin@example.com",
+    "leave_balance": 20
+  },
+  {
+    "id": "EMP005",
+    "name": "Carlos Ortega",
+    "email": "carlos.ortega@example.com",
+    "leave_balance": 20
+  },
+  {
+    "id": "EMP006",
+    "name": "Fatima Noor",
+    "email": "fatima.noor@example.com",
+    "leave_balance": 1
+  }
+]
